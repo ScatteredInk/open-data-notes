@@ -1,15 +1,11 @@
-baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Notes on open data and transparency"
-
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 builddrafts = true 
 canonifyurls = true
+baseurl = "https://github.com/shawnohare/hugo-tufte"
 theme = "hugo-tufte"
-hideReadTime = true
+title = "Hugo-tufte Theme Example Site"
 
 [taxonomies]
   category = "categories" 
@@ -18,8 +14,8 @@ hideReadTime = true
   tag = "tags"
 
 [params]
-  subtitle = "Beneficial ownership, corporate disclosure, tax justice, supply chains, policy and history"
-  copyrightHolder = "Jack Lord"
+  subtitle = "Subtitle goes here."
+  copyrightHolder = "Copyright Holder"
   showPoweredBy = true
 
 # -----------------------------------------------------------------------
@@ -32,24 +28,17 @@ hideReadTime = true
   identifier = "home"
   url = "/"
 [[menu.nav]]
-  name = "About"
-  pre = "<i class='fa fa-info-circle fa-lg'></i> "
-   weight = -100 
-  identifier = "about"
-  url = "/about"
-[[menu.nav]]
   name = "Posts"
   pre = "<i class='fa fa-book fa-lg'></i> "
-  weight = -90 
+  weight = -100 
   identifier = "posts"
   url = "/post"
 [[menu.nav]]
   name = "Categories"
   pre = "<i class='fa fa-tags fa-lg'></i> "
-  weight = -80 
+  weight = -90 
   identifier = "categories"
   url = "/categories"
-
 
 # -----------------------------------------------------------------------
 # Footer menu 
@@ -65,5 +54,4 @@ hideReadTime = true
   pre = "<i class='fa fa-twitter fa-2x'></i> "
   weight = -90 
   identifier = "twitter"
-  url = "https://twitter.com/jacklord"
-
+  url = "https://twitter.com"
