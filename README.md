@@ -1,3 +1,11 @@
+# Theme modifications
+
+To use the unboxed summary shortcode:
+
+```
+{{% unboxedsummary title= "Abstract" %}} This article was really great.{{% /unboxedsummary %}}
+``` 
+
 # Victor Hugo
 
 **A Hugo boilerplate for creating truly epic websites**
