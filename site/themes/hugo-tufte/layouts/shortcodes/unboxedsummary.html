@@ -1,1 +1,2 @@
-<p class="unboxedsummary"><span class="newthought">{{.Get "title" }} </span><br/>{{ .Inner }}</p>
+<p class="unboxedsummary">{{ if .Get "title" }}<span class="newthought">{{ .Get "title" }} </span>
+</br>{{ end }}{{ .Inner }}</p>

@@ -214,6 +214,16 @@ div.fullwidth, table.fullwidth { width: 100%; }
 p.unboxedsummary { background-color: #fcf8ff;
                    padding: 0.5rem;  }
 
+p.unboxedsummary > a { text-decoration: none;
+         background: -webkit-linear-gradient(#fcf8ff, ##fcf8ff), -webkit-linear-gradient(##fcf8ff, ##fcf8ff), -webkit-linear-gradient(#333, #333);
+         background: linear-gradient(##fcf8ff, ##fcf8ff), linear-gradient(##fcf8ff, ##fcf8ff), linear-gradient(#333, #333);
+         -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+         -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+         background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+         background-repeat: no-repeat, no-repeat, repeat-x;
+         text-shadow: 0.03em 0 ##fcf8ff, -0.03em 0 ##fcf8ff, 0 0.03em ##fcf8ff, 0 -0.03em ##fcf8ff, 0.06em 0 ##fcf8ff, -0.06em 0 ##fcf8ff, 0.09em 0 ##fcf8ff, -0.09em 0 ##fcf8ff, 0.12em 0 ##fcf8ff, -0.12em 0 ##fcf8ff, 0.15em 0 ##fcf8ff, -0.15em 0 ##fcf8ff;
+         background-position: 0% 93%, 100% 93%, 0% 93%; }
+
 div.table-wrapper { overflow-x: scroll;
                     font-family: "Trebuchet MS", "Gill Sans", "Gill Sans MT", sans-serif; }
 
