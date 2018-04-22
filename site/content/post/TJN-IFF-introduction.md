@@ -54,13 +54,13 @@ Main areas:
 
 ## Context
 
-Tax is the first 'means of implementation' in the SDGs (not mentioned in the Millenium Development Goals). {{% sidenote "mn-impl" %}}Can add here that the taxation of assets is rising up the agenda, including in World Bank-type circles. 'Go after the big targets' etc. The policy momentum is continuing with OECD's [platform for collaboration on tax](http://www.oecd.org/tax/platform-for-collaboration-on-tax-conference-statement-2018.pdf).{{% /sidenote%}}
+Tax is the first 'means of implementation' in the SDGs (not mentioned in the Millenium Development Goals). {{% sidenote id="mn-impl" %}}Can add here that the taxation of assets is rising up the agenda, including in World Bank-type circles. 'Go after the big targets' etc. The policy momentum is continuing with OECD's [platform for collaboration on tax](http://www.oecd.org/tax/platform-for-collaboration-on-tax-conference-statement-2018.pdf).{{% /sidenote%}}
 
-IFF emerged as a counterpoint to the idea of corruption as a problem of the global South.  Raymond Baker's *Capitalism's Achilles Heel*: scale of tax evasion dwarfed that of public corruption.{{% sidenote "mn-ray" %}}The founder of [Global Financial Integrity](http://www.gfintegrity.org/).{{% /sidenote%}}
+IFF emerged as a counterpoint to the idea of corruption as a problem of the global South.  Raymond Baker's *Capitalism's Achilles Heel*: scale of tax evasion dwarfed that of public corruption.{{% sidenote id="mn-ray" %}}The founder of [Global Financial Integrity](http://www.gfintegrity.org/).{{% /sidenote%}}
 
-Profit-shifting as a motivation for country-by-country reporting. {{% sidenote "mn-cbc" %}} But see this thread on [value creation as fiction](https://twitter.com/martinhearson/status/964188921373646850)  {{% /sidenote%}}
+Profit-shifting as a motivation for country-by-country reporting. {{% sidenote id="mn-cbc" %}} But see this thread on [value creation as fiction](https://twitter.com/martinhearson/status/964188921373646850)  {{% /sidenote%}}
 
-Secrecy jurisdictions act as a *driver* of IFF: opaque accounting, anonymous owners and failure to exchange information.{{% sidenote "mn-exc" %}}In this context, bureaucratic frictions and limited capacity within financial intelligence units strengthen the argument for openness. See Christian Aid. “[Questionable Values? A Review of Capital Economics’ Report on the British Virgin Islands](https://www.christianaid.org.uk/index.php/resources/about-us/questionable-values-policy-report),” February 2018.{{% /sidenote%}} 
+Secrecy jurisdictions act as a *driver* of IFF: opaque accounting, anonymous owners and failure to exchange information.{{% sidenote id="mn-exc" %}}In this context, bureaucratic frictions and limited capacity within financial intelligence units strengthen the argument for openness. See Christian Aid. “[Questionable Values? A Review of Capital Economics’ Report on the British Virgin Islands](https://www.christianaid.org.uk/index.php/resources/about-us/questionable-values-policy-report),” February 2018.{{% /sidenote%}} 
 
 ## IFF Indicator
 
