@@ -1,6 +1,6 @@
 ---
 
-title: "Whats Next on Beneficial Ownership, OGP Summit Tbilisi, July 2018"
+title: "What's Next on Beneficial Ownership, OGP Summit Tbilisi, July 2018"
 date: 2018-07-18T15:51:56+04:00
 draft: false
 math: false
