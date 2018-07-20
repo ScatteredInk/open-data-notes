@@ -76,7 +76,7 @@ Response: businesses want to know who they are doing business with. (US also usi
 
 ### Questions
 
-Anti-Corruption Coaltion, Armenia: How to query information - to find officials and politicians. {{% marginnote "mn-6"%}}PEP status flag makes this easy - but requires political will and regulatory compliance. To find people more generally, unique identifiers for people (possibly meaningless ones) are the optimal solution. We are seeing a spectrum {{% /marginnote %}} 
+Anti-Corruption Coaltion, Armenia: How to query information - to find officials and politicians. {{% marginnote "mn-6"%}}PEP status flag makes this easy - but requires political will and regulatory compliance. To find people more generally, unique identifiers for people (possibly meaningless ones) are the optimal solution. We are seeing a spectrum of uniquely identifying information being added to registers: UK (none at all), Nigeria (a lot planned), Myanmar (a lot there but individual data points got removed when it threatened powerful political figures - this one might be legal ownership?){{% /marginnote %}} 
 
 Fabio Teramo, Italy: Implementing AMLD - but also FATF, and also doing peer review with Global Forum. Are there moves to co-ordinate {{% marginnote "mn-7"%}}I think we need a mapping tool that shows "If you are here with public BO disclosure, then you are here with FATF etc."{{% /marginnote %}}
 
