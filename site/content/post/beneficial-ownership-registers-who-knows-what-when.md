@@ -2,7 +2,7 @@
 
 title: "Beneficial Ownership Registers: who knows what?"
 date: 2018-11-08T13:35:08Z
-draft: true
+draft: false
 math: false
 hideReadTime: true 
 meta: true
