@@ -12,11 +12,9 @@ author: "Jack Lord"
 
 ---
 
+This is an condensed, expanded *and* tidied up version of a talk I gave at EITI's Opening Up Ownership: Africa conference, Dakar, Senegal in November 2018. It covers which actors know what in the beneficial ownership disclosure process, and some of the implications for data quality, business processes and register design.
 
-
-<!--more-->
-
-This is an condensed, expanded *and* tidied up version of a talk I gave at EITI's Opening Up Ownership: Africa conference, Dakar, Senegal in November 2018. It covers which actors know what in the beneficial ownership disclosure process, and some of the implications for data quality, business processes and register design.   
+<!--more-->   
 
 {{% unboxedsummary title=""%}}Lord, Jack. “Beneficial Ownership Registers: Who Knows What?” presented at the EITI, Opening Up Ownership: Africa, Dakar, Senegal, November 1, 2018.{{% /unboxedsummary %}}
 
