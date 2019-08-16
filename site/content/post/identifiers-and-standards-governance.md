@@ -21,7 +21,7 @@ This post is about the current dynamics between open data standards and identifi
 
 <!--more-->
 
- {{% newthought %}}Stable and permanent{{% /newthought %}} identifiers mean that you always know who or what you are talking about.{{% sidenote "sn-1" %}}A good summary report on the advantages of open identifiers, and best practice, is Open Data Institute and Thompson Reuters, [“Creating Value with Identifiers in an Open Data World](http://innovation.thomsonreuters.com/content/innovation/en/labs/data-identifiers.html.).,” 2014.{{% /sidenote %}}
+ {{% newthought %}}Stable and permanent{{% /newthought %}} identifiers mean that you always know who or what you are talking about.{{% sidenote "sn-1" %}}A good summary report on the advantages of open identifiers, and best practice, is Open Data Institute and Thompson Reuters, [“Creating Value with Identifiers in an Open Data World](http://innovation.thomsonreuters.com/content/innovation/en/labs/data-identifiers.html).,” 2014.{{% /sidenote %}}
  While a company name can get written down in a dozen different ways (Open Data Services, Open Data Services Co-operative Limited, ODSC, Open Data Services Coop, ...), a well-defined identifier for a company will be unique and unambiguous, and follow the company throughout its life.
  Thus, using the [org-id.guide](http://org-id.guide/list/GB-COH) scheme, Open Data Services Co-operative Limited would be identified as `GB-COH-09506232`, even if we changed our name to Closed Data Uncooperative Limited - which we might have to, if people don’t start using better identifiers.
 
